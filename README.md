@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my second Git Repository
 <br>
-Author- Aditya Sharma
+Author- Aditya Sharma(Apna college)
